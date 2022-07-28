@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Business Development -Page (project-12)](https://seo-page.netlify.app/)
+## [Link to the Business Development -Page (project-12)](https://business-development.netlify.app/)
 
 
 ![Completed Website](img1.png)
