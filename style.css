@@ -1,0 +1,251 @@
+*{
+    margin: 0;
+    padding: 0px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    box-sizing: border-box;
+    max-width: 210rem;
+}
+.sec1{
+    background-color: #636C79;
+    padding: 50px 100px;
+}
+
+.sec1 nav{
+    display: flex;
+    gap: 100px;
+    margin-bottom: 100px;
+}
+
+.sec1 nav li{
+    list-style: none;
+    float: left;
+    margin-left: 100px;
+    font-size: 25px;
+    color: white;
+    margin-top: -5px;
+}
+.sec1 nav ul{
+    margin-left: 500px;
+}
+.sec1 nav button{
+    width: 250px;
+    height: 48px;
+    background-color: #636C79;
+    border: 1px solid white;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: -15px;
+    margin-left: 100px;
+}
+.sec1div{
+    display: flex;
+    margin: 30px 300px;
+    gap: 200px;
+}
+.sec1div img{
+    width: 700px;
+    height: 750px;
+    justify-content: center;
+    
+}
+.sec1div h1{
+    font-size: 110px;
+    color: white;
+}
+.sec1div p{
+    margin-top: 30px;
+    color: white;
+    line-height: 45px;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.sec1divinput input{
+    width: 700px;
+    height: 80px;
+    font-size: 30px;
+    padding-left: 45px;
+}
+.sec1divinput span{
+    display: flex;
+    margin-top: -64px;
+    font-size: 40px;
+    padding-left: 5px;
+}
+.sec1divinput button{
+    margin-top: 3.5px;
+    margin-left: 443px;
+    height: 67px;
+    background-color: #65c98b;
+    width: 250px;
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    border: none;
+}
+.btnsec1{
+      display: flex;
+      margin-top: -53px;
+
+}
+
+.sec2div{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 60px;
+}
+.sec2num{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    margin-top: 70px;
+    margin-bottom: 100px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.sec2img img{
+    display: flex;
+    justify-content: center;
+    margin: 100px 200px;
+    width: 2200px;
+    height: 900px;
+    align-content: center;
+}
+.sec3div{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 50px;
+}
+.sec3para{
+    display: flex;
+    gap: 300px;
+    justify-content: center;
+    margin-top: 100px;
+}
+.sec3para img{
+    width: 800px;
+    height: 800px;
+}
+.sec3para2 h2{
+    font-size: 80px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.sec3para2 p{
+    font-size: 40px;
+    line-height: 60px;
+    color: #636C79;
+    margin-bottom: 70px;
+}
+.sec3para2 button{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    background-color: #65c98b;
+    border: none;
+}
+.sec4{
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+    gap: 600px;
+    margin-bottom: 100px;
+}
+.sec4 h1{
+    font-size: 100px;
+}
+.sec4 p{
+    font-size: 30px;
+    line-height: 50px;
+    margin-top: 40px;
+    color: #636C79;
+}
+.sec4table{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.sec4table img{
+    width: 500px;
+    height: fit-content;
+    
+}
+.sec4table h2{
+    font-size: 30px;
+    margin: 30px 0px;
+}
+.sec4table p{
+     font-size: 20px;
+     line-height: 30px;
+     color: #636C79;
+}
+
+
+.sec4btn{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    
+}
+.sec4btn button{
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    background-color: #65c98b;
+    border: none;
+    margin-bottom: 150px;
+}
+footer{
+    
+    padding-bottom: 100px;
+    background-color: #0b0f14;
+    
+}
+.footlogo{
+    display: flex;
+    justify-content: center;
+    gap: 1400px;
+    padding: 100px;
+    align-items: center;
+    
+}
+.footimg img{
+    margin-left: 50px;
+    background-color: rgba(255, 255, 255, 0.062);
+    padding: 30px;
+    border-radius: 40px;
+}
+.footmar{
+    border-bottom: 2px solid rgba(255, 255, 255, 0.151);
+    margin: 0px 140px;
+    margin-bottom: 100px;
+}
+.footlist{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+    
+}
+.footlist li{
+    color: #636C79;
+    list-style: none;
+    line-height: 50px;
+    font-size: 20px;
+   
+}
+.footlist h2{
+    color: white;
+}
