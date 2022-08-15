@@ -271,9 +271,9 @@ footer{
     .sec1 nav li{
         list-style: none;
         float: left;
-        font-weight: 600;
+        font-weight: 900;
         margin-left: 10px;
-        font-size: 15px;
+        font-size: 10px;
         color: white;
         margin-top: 10px;
     }
