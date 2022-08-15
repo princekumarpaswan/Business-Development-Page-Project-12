@@ -249,3 +249,283 @@ footer{
 .footlist h2{
     color: white;
 }
+
+
+ @media(max-width: 1000px){
+
+
+    .sec1 nav{
+        display: flex;
+        gap: 10px !important;
+        margin-bottom: 100px;
+        margin-left: -170px;
+        margin-top: -30px;
+    }
+    .sec1{
+        width: 700px;
+    }
+    .secx{
+        width: 700px;
+    }
+    
+    .sec1 nav li{
+        list-style: none;
+        float: left;
+        font-weight: 600;
+        margin-left: 10px;
+        font-size: 15px;
+        color: white;
+        margin-top: 10px;
+    }
+    .sec1 nav ul{
+        margin-left: 10px;
+    }
+    .sec1 nav button{
+        width: 100px;
+        height: 24px;
+        background-color: #636C79;
+        border: 1px solid white;
+        color: white;
+        font-size: 15px;
+        font-weight: 600;
+        margin-top: 5px;
+        margin-left: 10px;
+    }
+    .sec1 img{
+        width: 100px;
+        margin-left: 90px;
+    }
+    .sec1div{
+        display: block;
+        width: 700px;
+        margin: -80px 0px;
+        margin-left: -150px;
+    }
+    .sec1div img{
+        width: 500px;
+        border-radius: 10px;
+        height: 500px;
+    }
+    .sec1div h1{
+        font-size: 50px;
+        margin: 20px 0px;
+        text-align: center;
+    }
+   
+    .sec1div p{
+        font-size: 20px;
+        text-align: center;
+
+    }
+
+    .sec1divinput{
+        background-color: #636C79;
+        width: 0px;
+        margin: 10px 30px;
+        margin-left: 100px;
+        padding-bottom: 40px;
+    }
+
+    .sec1divinput input{
+        width: 500px;
+        height: 40px;
+        font-size: 20px;
+        padding-left: 45px;
+    }
+    .sec1divinput span{
+        display: flex;
+        margin-top: -35px;
+        font-size: 30px;
+        padding-left: 5px;
+    }
+    .sec1divinput button{
+        margin-top: 23px;
+        margin-left: 370px !important;
+        margin-right: -10px;
+        height: 30px;
+        background-color: #65c98b;
+        width: 350px !important;
+        padding-right: 50px;
+        padding-left: 50px;
+        color: white;
+        font-size: 10px;
+        font-weight: 900;
+        border: none;
+    }
+    .sec2num{
+        display: block;
+        margin-left: -90px;
+    }
+    .sec2num p{
+        margin-bottom: 40px;
+    }
+    .sec2div{
+        margin-left: 300px;
+    }
+
+
+
+    .sec2div h1{
+        font-size: 30px;
+        margin-left: -380px;
+    }
+
+    .sec2img img{
+       width: 500px;
+       margin-left: 50px;
+       height: 500px;
+       margin-top: -80px;
+    }
+    
+
+    .sec3div{
+        margin-left: 150px;
+        text-align: center;
+    }
+    
+    .sec3div h1{
+        font-size: 30px;
+        margin-left: -150px;
+        margin-top: -150px;
+    }
+
+    .sec3para{
+        display: block;
+        text-align: center;
+        width: 700px;
+        margin-left: -50px;
+        margin-top: -120px;
+        padding: 20px;
+    }
+
+    .sec3para h2{
+        font-size: 30px !important;
+    }
+
+    .sec3para p{
+        font-size: 20px !important;
+        line-height: 30px;
+    }
+    .sec3para img{
+        width: 500px;
+        height: 500px;
+        margin-bottom: 30px;
+    }
+
+    .sec3para button{
+        margin-bottom: 30px;
+    }
+
+    .res2img{
+        margin-top: 30px;
+        padding-top: 100px !important;
+        margin-bottom: 0px;
+    }
+    .pkr{
+        margin-top: -100px
+    }
+
+    .sec4{
+        width: 700px;
+        margin: 10px 50px;
+        display: block;
+        align-items: center;
+        text-align: center;
+        margin: 10px 0px;
+        margin-left: -55px
+    }
+    .sec4 h1{
+        font-size: 50px;
+     }
+     .sec4 p{
+        font-size: 20px !important;
+        text-align: center;
+        line-height: 30px;
+        margin-bottom: 50px;
+     }
+    
+     .sec4table{
+        display: block;
+        margin-left: -55px;
+        text-align: center;
+        width: 700px;
+     }
+     .sec4btn{
+        margin-left: 30px;
+     }
+
+     .footlogo{
+        display: block;
+        margin: 0px 10px !important;
+        width: 700px;
+     }
+
+     .resf img{
+        width: 70px;
+        margin-top: -250px;
+        margin-bottom: 50px;
+        margin-left: -100px;
+     }
+
+     .footimg{
+        margin-left: -50px;
+        margin-right: 200px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr ;
+        gap: 20px;
+     }
+
+     .footlist{
+        display: block;
+     }
+     
+     .footmar {
+        width: 700px !important;
+        margin-left: 5px;
+     }
+     footer{
+        width: 598px;
+        text-align: center;
+     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ }
