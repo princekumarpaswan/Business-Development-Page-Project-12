@@ -498,34 +498,321 @@ footer{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  }
+
+
+
+
+
+
+
+ @media(max-width: 600px){
+
+    *{
+        max-width: 400px;
+        overflow-x: hidden;
+    }
+
+
+    .sec1 nav{
+        display: block;
+        gap: 10px !important;
+        margin-bottom: 100px;
+        margin-left: -20px;
+        margin-top: -30px;
+    }
+    .sec1{
+        width: 400px;
+    }
+    .secx{
+        width: 300px;
+    }
+    
+    .sec1 nav li{
+        list-style: none;
+        float: left;
+        font-weight: 900;
+        margin-left: 10px;
+        font-size: 10px;
+        color: white;
+        margin-top: 10px;
+    }
+    .navbtnx{
+        margin-left: 40px;
+        margin-top: 10px;
+    }
+    .sec1 nav ul{
+        margin-left: -50px;
+    }
+    .sec1 nav button{
+        width: 100px;
+        height: 24px;
+        background-color: #636C79;
+        border: 1px solid white;
+        color: white;
+        font-size: 15px;
+        font-weight: 600;
+        margin-top: 5px;
+        margin-left: 10px;
+    }
+    .sec1 img{
+        width: 100px;
+        margin-left: 50px;
+    }
+    .sec1div{
+        display: block;
+        width: 400px;
+        margin: -60px 0px;
+        margin-left: -150px;
+    }
+    .sec1div img{
+        width: 300px;
+        border-radius: 10px;
+        height: 300px;
+        margin-left: 75px;
+        margin-right: 0px;
+    }
+    .sec1div h1{
+        font-size: 20px;
+        margin: 20px 0px;
+        text-align: center;
+        margin-left: 70px;
+    }
+   
+    .sec1div p{
+        width: 300px;
+        font-size: 10px;
+        font-weight: 900;
+        line-height: 15px;
+        text-align: center;
+        margin-left: 80px;
+        margin-top: -10px;
+
+    }
+
+    .sec1divinput{
+        display: none;
+    }
+    
+    .sec2num{
+        display: block;
+        margin-left: 50px;
+        margin-top: -150px;
+    }
+    .sec2num p{
+        margin-bottom: 40px;
+    }
+    .sec2div{
+        margin-left: 300px;
+    }
+
+
+
+    .sec2div h1{
+        font-size: 30px;
+        margin-left: -380px;
+    }
+    .sec2img{
+        margin-top: -100px;
+    }
+
+    .sec2img img{
+       width: 400px;
+       margin-left: 50px;
+       height: 400px;
+       margin-top: 0px;
+    }
+    
+
+    .sec3div{
+       display: none;
+    }
+    
+   
+
+    .sec3para{
+        display: block;
+        text-align: center;
+        width: 700px;
+        margin-left: -20px;
+        margin-top: -120px;
+        padding: 20px;
+    }
+
+    .sec3para h2{
+        font-size: 30px !important;
+    }
+
+    .sec3para p{
+        font-size: 20px !important;
+        line-height: 30px;
+    }
+    .sec3para img{
+        width: 500px;
+        height: 500px;
+        margin-bottom: 30px;
+    }
+
+    .sec3para button{
+        margin-bottom: 30px;
+    }
+
+    .res2img{
+        margin-top: 30px;
+        padding-top: 100px !important;
+        margin-bottom: 0px;
+    }
+    .pkr{
+        margin-top: -100px
+    }
+
+    .sec4{
+        width: 700px;
+        margin: 10px 0px;
+        display: block;
+        align-items: center;
+        text-align: center;
+        margin: 10px 0px;
+        margin-left: -15px
+    }
+    .sec4 h1{
+        font-size: 40px;
+     }
+     .sec4 p{
+        font-size: 15px !important;
+        text-align: center;
+        line-height: 30px;
+        margin-bottom: 50px;
+     }
+    
+     .sec4table{
+        display: block;
+        margin-left: -5px;
+        text-align: center;
+        width: 400px;
+     }
+     .sec4table h2{
+        margin-left: -20px;
+     }
+     .sec4table p{
+        margin-left: -20px;
+        margin-bottom: 10px;
+     }
+
+
+     .sec4btn{
+        margin-left: 0px;
+     }
+
+     .footlogo{
+        display: block;
+        margin: 0px 10px !important;
+        width: 700px;
+     }
+
+     .resf img{
+        width: 70px;
+        margin-top: 0px;
+        margin-bottom: 50px;
+        margin-left: -50px;
+     }
+
+     .footimg{
+       display: none;
+     }
+
+     .footlist{
+        display: block;
+        margin-left: -20px;
+        margin-top: -90px;
+        margin-bottom: 5px;
+     }
+     
+     .footmar {
+        width: 700px !important;
+        margin-left: 5px;
+     }
+     footer{
+        width: 598px;
+        text-align: center;
+     }
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
